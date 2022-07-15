@@ -2,4 +2,4 @@
 
 ## hello world  
 
-### third times the charm 
+### third time is the charm 
