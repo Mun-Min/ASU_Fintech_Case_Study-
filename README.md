@@ -1,5 +1,3 @@
-# This is my first read me file 
+# Fintech Case Study 
 
 ## hello world  
-
-### third time is the charm 
