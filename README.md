@@ -1,5 +1,5 @@
-# Fintech Case Study
-
+# Fintech Case Study  
+### Munqiz Minhas
 ## Overview and Origin
 
 * Name of company
