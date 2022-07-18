@@ -1,7 +1,7 @@
-# Fintech Case Study  
+# Fintech Case Study
+<img align="right" width="100" height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcrypto.com%2Fprice%2Fcoin-data%2Ficon%2FLINK%2Fcolor_icon.png&f=1&nofb=1">
 
 ## Overview and Origin
-
 * Name of company
   * [Chainlink Labs](https://chain.link/)
 <br/>
