@@ -11,7 +11,7 @@
 <br/>
 
 * Who are the founders of the company?
-  * [Sergey Nazarov](https://www.linkedin.com/in/sergeydnazarov?challengeId=AQGEAlRLG1BRZwAAAYITBE3tYJPkVVkcw7Bikxn4klVjXfSTZ_hfR0fRFpyKz110eq9tGV32XbMrHdolDDD5xcrLBh1qz6UKkA&submissionId=83d1155b-ac06-0317-8ddb-3e67f2b2f050&challengeSource=AgE8FhQ-EAIHoAAAAYITBQD24HE4jUWgzIDTut5ceEkMcuv8GljfUvtT_RBRmuk&challegeType=AgHFjXp2LO3tNwAAAYITBQD5BibYr6nW2NXsCAHYGKIjKpbDJu9csmQ&memberId=AgGifyCC2dYvywAAAYITBQD8GQov7h60Zf4iqHLzyIIjh84&recognizeDevice=AgEk2ED_f_EwCgAAAYITBQD_oC8NbYpi9tH5Wl4fqLDcUoRNPLkW)
+  * [Sergey Nazarov](https://www.linkedin.com/in/sergeydnazarov/)
 <br/>
 
 * What does Chainlink do?
@@ -63,7 +63,7 @@
 * How is your company performing relative to competitors in the same domain?
   * Chainlink has established a long list of partners over that past few years, one of which being Google!
   * Chainlink is different than other oracle projects because it acts as a secure bridge between decentralized applications and traditional businesses. The points where data comes into the blockchain are also the points that can be manipulated or falsified -- this is where Chainlink creates value where others cannot.
-  * To minimize the potential failure of an oracle, Chainlink prioritizes 3 main principles; (1) distribution of data sources, (2) distribution of oracles, and use of trusted hardware.
+  * To minimize the potential failure of an oracle, Chainlink prioritizes 3 main principles; distribution of data sources, distribution of oracles, and use of trusted hardware.
 
 ![Chainlink Partnerships vs Competitors](https://pbs.twimg.com/media/FWrRiwNUsAEDiHf?format=jpg&name=4096x4096)
 
@@ -89,3 +89,10 @@
 <br/>
 
 ### Work Cited
+[1] https://chain.link/
+[2] https://coinmarketcap.com/currencies/chainlink/
+[3] https://coinmarketcap.com/currencies/band-protocol/
+[4] https://www.linkedin.com/in/sergeydnazarov/
+[5] https://www.crunchbase.com/organization/chainlink
+[6] https://decrypt.co/resources/what-is-chainlink
+[7] https://twitter.com/Coin98Analytics/status/1510034297088253954 
