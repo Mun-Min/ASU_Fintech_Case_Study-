@@ -1,6 +1,8 @@
 # Fintech Case Study
 <img align="right" width="100" height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcrypto.com%2Fprice%2Fcoin-data%2Ficon%2FLINK%2Fcolor_icon.png&f=1&nofb=1">
 
+*“A wise man seeks the truth for he knows it will always find him” -- Sergey Nazarov*
+
 ## Overview and Origin
 * Name of company
   * [Chainlink Labs](https://chain.link/)
@@ -102,3 +104,5 @@
 [6] https://decrypt.co/resources/what-is-chainlink
 
 [7] https://twitter.com/Coin98Analytics/status/1510034297088253954 
+
+[8] https://coinmarketcap.com/alexandria/people/sergey-nazarov
