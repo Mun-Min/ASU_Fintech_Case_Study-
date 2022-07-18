@@ -90,9 +90,15 @@
 
 ### Work Cited
 [1] https://chain.link/
+
 [2] https://coinmarketcap.com/currencies/chainlink/
+
 [3] https://coinmarketcap.com/currencies/band-protocol/
+
 [4] https://www.linkedin.com/in/sergeydnazarov/
+
 [5] https://www.crunchbase.com/organization/chainlink
+
 [6] https://decrypt.co/resources/what-is-chainlink
+
 [7] https://twitter.com/Coin98Analytics/status/1510034297088253954 
