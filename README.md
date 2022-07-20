@@ -17,7 +17,7 @@
 <br/>
 
 * What does Chainlink do?
-  * Chainlink is a decentralized oracle network. In blockchain, oracles refer to a data feed that connects blockchains to off-blockchain data, such as the outcome of a UFC match or retrieving weather data to help calculate insurance premiums. Chainlink acts as a "blockchain middleware" due its ability to provide accurate essential information such as price feeds, event results, weather data, and the security of traditional payment systems such as SWIFT.
+  * Chainlink is a decentralized oracle network. In blockchain, oracles refer to a data feed that connects blockchains to off-blockchain data, such as the outcome of a UFC match or retrieving weather data to help calculate insurance premiums. Chainlink acts as a "blockchain middleware" due to its ability to provide accurate essential information such as price feeds, event results, weather data, and the security of traditional payment systems such as SWIFT.
 <br/>
 
 * How is the company funded? How much funding have they received?
