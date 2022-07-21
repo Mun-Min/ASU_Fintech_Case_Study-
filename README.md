@@ -76,11 +76,11 @@
 * If you were to advise the company, what products or services would you suggest they offer?
 
    - Currently Chainlink node operators can stake their LINK tokens to be used as collateral for maintaining the network. In return, they get a steady interest yield on their staked tokens.  
-   - I think it would be cool if retail investors could also stake their tokens and generate a steady interest yield. 
+   - I think it would be cool if retail investors could also stake their tokens, generate a steady interest yield, and be a part of maintaining the Chainlink network. 
 <br/> 
 
 * Why do you think that offering this product or service would benefit the company?
-   - I think it would bring a lot of attention towards the company. Many cryptocurrencies offer high yield interest rates and usually bring in many users.
+   - I think it would bring a lot of attention towards the company. Many cryptocurrencies offer high yield interest rates and usually brings in many users.
    - The company will also become even more trustworthy than it already is since more cash will be secured (staked) into the network. 
 <br/>
 
