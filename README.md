@@ -40,12 +40,12 @@
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
   - The financial services industry have been one of the early adopters of blockchain technology. Today, maturing technologies and evolving standards are boosting enterprise adoption of blockchain platforms.
-  - The major trends of this domain have mainly been BTC & ETH, the two biggest cryptocurrencies in the market have been applied to many different applications by the use of smart contracts which gave birth to many decentralized applications (DAAPS). 
+  - The major trends of this domain have mainly been BTC & ETH, the two biggest cryptocurrencies in the market have been applied to many different applications by the use of smart contracts which gave birth to many decentralized applications (DAAPS).
 .
 <br/>
 
 * Who is the major competitor of the company?
-  - BAND protocol is the second biggest oracle provider. However BAND is located on the Cosmos blockchain while LINK is located on the Ethereum blockchain. 
+  - BAND protocol is the second biggest oracle provider. However BAND is located on the Cosmos blockchain while LINK is located on the Ethereum blockchain.
   
     |  ChainLink Marketcap  |  BAND Protocol Marketcap  |
     |  -------------------  |  -----------------------  |
